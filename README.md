@@ -1,1 +1,1 @@
-# text-editor-program
+# text-editor-program. Able to change the font size, color of font, and font style. Able to use menu bar with functions file, new file, open file, save file, exit, edit, cut, copy, paste, help and about.
